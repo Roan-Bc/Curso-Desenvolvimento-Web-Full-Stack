@@ -1,2 +1,3 @@
-# Projeto-Utilizando-HTML-e-CSS
-Projetos utilizando linguagem de marcação html, e linguagem de estilo css, aplicando conhecimentos de Layout fixo, Layout Líquido.
+# Curso-Desenvolvimento-Web-Full-Stack
+Repositório feito para guarda os projetos feitos durante o curso da Udemy Desenvolvimento Web Full Stack com Python e Django.
+
